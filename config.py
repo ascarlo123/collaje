@@ -1,2 +1,2 @@
-API_TOKEN = ''
-DATABASE = 'data.db'
+API_TOKEN = 'ur token here'
+DATABASE = 'prizes.db'
